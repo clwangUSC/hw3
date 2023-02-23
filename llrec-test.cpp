@@ -86,6 +86,16 @@ int main(int argc, char* argv[])
     print(head);
 
     // Test out your linked list code
+    
+     Node* p1 = NULL;
+     Node* p2 = NULL;
+
+    llpivot(head, p1, p2, 5);
+    print(p1);
+    print(p2);
+
+    //Node* temp = llfilter(head, pred);
+
 
 
 

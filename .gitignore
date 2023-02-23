@@ -1,2 +1,6 @@
 *.o
 llrec-test
+stack-test.cpp
+heap-test.cpp
+heap
+stack
